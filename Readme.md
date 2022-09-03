@@ -2,26 +2,27 @@
 
 多种风格可选的萌萌计数器
 
-![Moe-counter](https://count.getloli.com/get/@Moe-counter.github)
+![Moe-counter](https://Moe-counter.ice-forever.repl.co/get/@Moe-counter.github)
 
 <details>
 <summary>More theme</summary>
 
 ##### asoul
-![asoul](https://count.getloli.com/get/@demo?theme=asoul)
+![asoul](https://Moe-counter.ice-forever.repl.co/get/@demo?theme=asoul)
 
 ##### moebooru
-![moebooru](https://count.getloli.com/get/@demo?theme=moebooru)
+![moebooru](https://Moe-counter.ice-forever.repl.co/get/@demo?theme=moebooru)
 
 ##### rule34
-![Rule34](https://count.getloli.com/get/@demo?theme=rule34)
+![Rule34](https://Moe-counter.ice-forever.repl.co/get/@demo?theme=rule34)
 
 ##### gelbooru
-![Gelbooru](https://count.getloli.com/get/@demo?theme=gelbooru)</details>
+![Gelbooru](https://Moe-counter.ice-forever.repl.co/get/@demo?theme=gelbooru)</details>
 
 ## Demo
 [https://count.getloli.com](https://count.getloli.com)
 
+[https://Moe-counter.ice-forever.repl.co（自行部署）](https://Moe-counter.ice-forever.repl.co)
 ## Usage
 
 ### Install
